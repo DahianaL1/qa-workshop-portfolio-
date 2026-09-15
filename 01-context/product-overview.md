@@ -13,7 +13,7 @@ La plataforma incrementa sus ventas con una variedad de opciones y disponibilida
 - Equipo de atencion al cliente, quien recibe el pedido lo prepara y se encarga de la entrega
 
 ## Funcionalidades principales 
-- Registro e inicion de sesion del usuario
+- Registro e inicio de sesion del usuario
 - Busqueda del producto 
 - Gestion del carrito de compras
 - Procesamiento de pago
