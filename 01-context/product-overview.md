@@ -1,6 +1,6 @@
 # Vision General del producto 
 ## Nombre del producto 
-KPET Store plataforma online de ventas de animales
+JPETStore plataforma online de ventas de animales
 ## ¿Qué tipo de producto es? 
 Plataforma online especializada en la venta de animales y servicios relacionado con mascotas.
 ## ¿Qué problema resuelve? 
