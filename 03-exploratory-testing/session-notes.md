@@ -11,10 +11,10 @@ Pagina Web; https://petstore.octoperf.com/
 
 ## INICIO 
 (Registra cuándo comienza la sesión – control de tiempo). 
-Fecha: 16 de setiembre 2026
-Hora de Inicio: 18:30
-Hora Fin: 21:30
-Duracion: 3 horas
+- Fecha: 16 de setiembre 2026
+- Hora de Inicio: 18:30
+- Hora Fin: 21:30
+- Duracion: 3 horas
 ## TESTER 
 (Identifica quién realizó la exploración.) 
 Nombre: Dahiana Lezcano
@@ -72,10 +72,10 @@ Pagina Web; https://petstore.octoperf.com/
 
 ## INICIO 
 (Registra cuándo comienza la sesión – control de tiempo). 
-Fecha: 16 de setiembre 2026
-Hora de Inicio: 17:00
-Hora Fin: 18:30
-Duracion: 1,5 horas
+- Fecha: 16 de setiembre 2026
+- Hora de Inicio: 17:00
+- Hora Fin: 18:30
+- Duracion: 1,5 horas
 
 ## TESTER 
 (Identifica quién realizó la exploración.) 
@@ -108,7 +108,7 @@ Nombre: Dahiana Lezcano
 - Ingresar en la pagina, en la opcion "Registrate ahora".
 - Completar los datos que solicita el formulario
 - click en "Guardar informacion de la cuenta".
-- el sistema no completo el registro y emitio un mensaje de error *HTTP 500- Internal Server Error*
+- el sistema no completo el registro y emitio un mensaje de error #*HTTP 500- Internal Server Error*#
 - Debito al error no se puede completar correctamente el flujo de creacion de cuenta.
 
 ## LISTA DE RIESGOS  
