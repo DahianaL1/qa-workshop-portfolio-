@@ -128,4 +128,4 @@ Nombre: Dahiana Lezcano
 ## INCIDENTES (ISSUES)  
 (Registra dudas, vacíos o problemas en el conocimiento del sistema )
 - Si no se registra una forma de pago, como es posible validar en el sistema que el pedido fue abonado.
-- No se cuenta con informacion suficiente para verificar si el error es con todos los usuarios nuevos o es con la carga de determinados datos.
+- No se cuenta con informacion suficiente para verificar si el error es con todos los usuarios nuevos o es con la carga de determinados datos.  
