@@ -15,6 +15,7 @@ Gestión de mascotas (pet).
 
 ## Justificación 
 ¿Por qué seleccionaste estas operaciones? 
+
 Seleccione estas operaciones porque representan el flujo completo de una API (Crear, Consultar, Actualizar, Borrar). Con las pruebas se estaria verificando las funciones esenciales del sistema.
 
 ## Condiciones de prueba identificadas 
@@ -27,6 +28,7 @@ Seleccione estas operaciones porque representan el flujo completo de una API (Cr
 
 ## Fuera de alcance 
 ¿Qué operaciones o aspectos no probarás en este ejercicio?
+
 1. Carga de imagenes para mascotas (POST /pet/{petId}/uploadImage)
 2. Busqueda por estado (GET /pet/findByStatus)
 3. Operaciones del modulo 'store' y 'user'
